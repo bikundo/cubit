@@ -1,0 +1,114 @@
+<?php
+
+return array(
+
+	/*
+	|--------------------------------------------------------------------------
+	| Language strings for views
+	|--------------------------------------------------------------------------
+	*/
+
+	'flashsuccess'	=> 'Success',
+
+	'flasherror'	=> 'Error',
+
+	'flashwarning'	=> 'Warning',
+
+	'flashinfo'		=> 'Heads up!',
+
+	'register'		=> 'Register',
+
+	'register_new'		=> 'Create New Account',
+
+	'login'			=> "Login",
+
+	'logout'		=> "Logout",
+
+	'home'			=> "Home",
+
+	'users'			=> "Users",
+
+	'user'			=> "User",
+
+	'groups'		=> "Groups",
+
+	'helloworld'	=> "Why Hello there!",
+
+	'description'	=> "This is a boilerplate of <a href=\"https://github.com/laravel/laravel\">Laravel 4.2</a> running with <a href=\"https://github.com/cartalyst/sentry\">Sentry 2.0</a> and <a href=\"http://getbootstrap.com/\">Bootstrap 3.1.1</a>.",
+
+	'loginstatus'	=> "You are currently logged in.",
+
+	'sessiondata'	=> "Session Data",
+
+	'currentusers'	=> "Current Users",
+
+	'options'		=> 'Options',
+
+	'status'		=> "Status",
+
+	'active'		=> "Active",
+
+	'notactive'		=> "Not Active",
+
+	'suspended'		=> "Suspended",
+
+	'banned'		=> "Banned",
+
+	'actionedit'	=> "Edit",
+
+	'actionsuspend'	=> "Suspend",
+
+	'actionunsuspend' => "Un-Suspend",
+
+	'actionban'		=> "Ban",
+
+	'actionunban'	=> "Un-Ban",
+
+	'actiondelete'	=> "Delete",
+
+	'name'	=> "Starter Code Laravel 4.2",
+
+	'profile'	=> "User profile",
+
+	'created'	=> "created",
+
+	'modified'	=> "last updated on",
+
+	'listwith'	=> "Admin",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+	''	=> "",
+
+
+);
